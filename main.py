@@ -315,7 +315,7 @@ def print_all_package_info():
         print(
             f"{'DELIVER TO:': <12}{location: <70}"
             f"{'WEIGHT:' : <9}{weight: <10}"
-            f"{'DEADLINE:' : <9}{deadline: <20}"
+            f"{'DEADLINE:' : <9}{deadline: <15}"
             f"{'NOTES:' : <9}{notes: <20}"
         )
     print()
@@ -374,7 +374,7 @@ def print_truck_package_info(truckData):
         print(
             f"{'DELIVER TO:': <12}{location: <70}"
             f"{'WEIGHT:' : <9}{weight: <10}"
-            f"{'DEADLINE:' : <9}{deadline: <20}"
+            f"{'DEADLINE:' : <9}{deadline: <15}"
             f"{'NOTES:' : <9}{notes: <20}"
         )
     print("\n\n")
@@ -414,7 +414,7 @@ def print_all_package_info_by_specific_time(specificTime):
         print(
             f"{'DELIVER TO:': <12}{location: <70}"
             f"{'WEIGHT:' : <9}{weight: <10}"
-            f"{'DEADLINE:' : <9}{deadline: <20}"
+            f"{'DEADLINE:' : <9}{deadline: <15}"
             f"{'NOTES:' : <9}{notes: <20}"
         )
 
@@ -459,7 +459,7 @@ def print_truck_package_info_by_specific_time(truckData, specificTime):
         print(
             f"{'DELIVER TO:': <12}{location: <70}"
             f"{'WEIGHT:' : <9}{weight: <10}"
-            f"{'DEADLINE:' : <9}{deadline: <20}"
+            f"{'DEADLINE:' : <9}{deadline: <15}"
             f"{'NOTES:' : <9}{notes: <20}"
         )
     currentLocation = HUB_ADDRESS

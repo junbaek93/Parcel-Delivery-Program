@@ -5,4 +5,21 @@ designed to efficiently route delivery trucks and ensure timely delivery of pack
 
 
 
-### 
+## Table of Contents
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
+
+
+## Technologies
+- Python (ver. 3.7)
+
+## Screenshots
+![Example Screenshots](./img/parcelDemo1.png)
+
