@@ -10,9 +10,7 @@ designed to efficiently route delivery trucks and ensure timely delivery of pack
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+
 
 
 ## Technologies
